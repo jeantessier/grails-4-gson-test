@@ -1,0 +1,9 @@
+model {
+    String name
+    int age
+}
+
+json.message {
+    hello name
+    you_are age
+}
